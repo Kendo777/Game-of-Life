@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ClBM5Omnk1MXXs/dncjbrHhwoaRBcyQDulZKzt+qQ/5CScHniEjmeNDaPGS6i+r7y9DjVaQk20dLjswCc2/t2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marc\\Desktop\\USJ\\4º\\Primer Semestre\\Programacion en tiempo real\\GameOfLife\\GameOfLife\\GameOfLife.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
